@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LV-NUS/.github/raw/main/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/LV-NUS/.github/raw/main/assets/banner-light.png">
-    <img alt="LV-Lab" src="https://github.com/LV-NUS/.github/raw/main/assets/banner-dark.png" width="800">
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img alt="LV-Lab" src="banner-dark.png" width="800">
   </picture>
 </p>
 
